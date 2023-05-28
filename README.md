@@ -1,0 +1,2 @@
+# Starrail
+Starrail imitation
