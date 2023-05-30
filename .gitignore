@@ -1,7 +1,8 @@
 
-Star/Intermediate
-Star/Binaries
-Star/Saved
-Star/.vs
-Star/Star.sln
+Intermediate
+Binaries
+Saved
+.vs
+Star.sln
 Star/Platforms/HoloLens/Config/HoloLensEngine.ini
+
